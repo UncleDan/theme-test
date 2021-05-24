@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'afonts';
-	src: url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.eot?94519643');
-	src: url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.eot?94519643#iefix') format('embedded-opentype'),
-		 url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.woff?94519643') format('woff'),
-		 url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.ttf?94519643') format('truetype'),
-		 url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
+	src: url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.eot?94519643');
+	src: url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.eot?94519643#iefix') format('embedded-opentype'),
+		 url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.woff?94519643') format('woff'),
+		 url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.ttf?94519643') format('truetype'),
+		 url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	}
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: 'afonts';
-		src: url('//theme-test.test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
+		src: url('https://uncledan.github.io/theme-test/02_fashionistas/wp-content/themes/fashionistas/fonts/afonts.svg?94519643#afonts') format('svg');
 		}
 	}
 */
