@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Sample Page	</title>
-	<atom:link href="http://theme-test.test/06_wp-astra/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://theme-test.test/06_wp-astra/</link>
+	<atom:link href="http:https://uncledan.github.io/theme-test/06_wp-astra/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http:https://uncledan.github.io/theme-test/06_wp-astra/</link>
 	<description>Ente di Promozione Sportiva Paralimpico riconosciuto dal CIP</description>
 	<lastBuildDate>Thu, 17 Oct 2019 16:35:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
