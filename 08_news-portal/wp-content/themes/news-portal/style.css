@@ -1579,7 +1579,7 @@ Header CSS
 }
 
 .np-header-menu-wrapper .mt-container::before {
-  background: rgba(0, 0, 0, 0) url("http:https://uncledan.github.io/theme-test/08_news-portal/wp-content/themes/news-portal/assets/images/menu-shadow.png") no-repeat scroll center top;
+  background: rgba(0, 0, 0, 0) url("https://uncledan.github.io/theme-test/08_news-portal/wp-content/themes/news-portal/assets/images/menu-shadow.png") no-repeat scroll center top;
   content: "";
   height: 38px;
   left: 50%;
