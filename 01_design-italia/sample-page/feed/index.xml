@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Sample Page	</title>
-	<atom:link href="//theme-test.test/01_design-italia/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>//theme-test.test/01_design-italia/</link>
+	<atom:link href="https://uncledan.github.io/theme-test/01_design-italia/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uncledan.github.io/theme-test/01_design-italia/</link>
 	<description>Ente di Promozione Sportiva Paralimpico riconosciuto dal CIP</description>
 	<lastBuildDate>Thu, 17 Oct 2019 16:35:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
